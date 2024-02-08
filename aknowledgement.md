@@ -27,7 +27,7 @@ The success of Hyperion AI Nexus is a testament to the collective efforts and de
 
 Together, we have embarked on a mission to shape the future of AI through collaboration, innovation, and ethical leadership. Hyperion AI Nexus thrives because of the collective efforts and commitment of each individual within this dynamic community. Thank you for being an integral part of the Hyperion AI Nexus story.
 
-KOSASIH 
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Hyperion AI Nexus Team
 
