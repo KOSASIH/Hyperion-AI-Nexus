@@ -241,6 +241,73 @@ Hyperion AI Nexus continues to expand its technological horizons, embracing a di
 
 Hyperion AI Nexus is dedicated to addressing these challenges, fostering a collaborative environment where contributors can overcome obstacles, innovate responsibly, and collectively push the boundaries of AI for the benefit of global society.
 
+# Contributor Guide 
+
+## Hyperion AI Nexus GitHub Repository Contributor Guide
+
+### Welcome Contributors!
+
+Thank you for considering contributing to Hyperion AI Nexus. Your collaboration is essential to advancing the field of artificial intelligence and shaping the future of collaborative innovation. This guide will help you get started on your journey as a contributor.
+
+### How to Contribute:
+
+1. **Fork the Repository:**
+   - Fork the Hyperion AI Nexus repository to your GitHub account by clicking on the "Fork" button at the top of the repository page.
+
+2. **Clone Your Fork:**
+   - Clone the forked repository to your local machine using the following command:
+     ```
+     git clone https://github.com/KOSASIH/hyperion-ai-nexus.git
+     ```
+
+3. **Create a Branch:**
+   - Create a new branch for your contribution using a descriptive branch name. For example:
+     ```
+     git checkout -b feature/new-feature
+     ```
+
+4. **Make Changes:**
+   - Implement your changes or additions within your branch. Ensure that your contributions align with the project's goals and follow the coding standards.
+
+5. **Test Your Changes:**
+   - Test your changes thoroughly to ensure they work as intended. Consider including test cases if applicable.
+
+6. **Commit Your Changes:**
+   - Commit your changes with clear, concise commit messages. For example:
+     ```
+     git commit -m "Add new feature: description"
+     ```
+
+7. **Push Your Changes:**
+   - Push your changes to your forked repository on GitHub:
+     ```
+     git push origin feature/new-feature
+     ```
+
+8. **Create a Pull Request (PR):**
+   - Open a Pull Request on the Hyperion AI Nexus main repository. Provide a detailed description of your changes, the problem you're solving, and any relevant information.
+
+9. **Code Review:**
+   - Expect feedback from maintainers and other contributors. Address and discuss any suggested changes or improvements.
+
+10. **Merge and Celebrate:**
+    - Once your PR is approved, it will be merged into the main branch. Congratulations! You've successfully contributed to Hyperion AI Nexus.
+
+### Contribution Guidelines:
+
+- Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+- Adhere to the project's [Coding Standards](CODING_STANDARDS.md).
+- Test your changes thoroughly before submitting a Pull Request.
+- Provide clear and descriptive commit messages.
+- Collaborate respectfully and constructively with other contributors.
+
+### Communication:
+
+- Join our [Community Discord Channel](#) for real-time discussions and updates.
+- Utilize GitHub Issues for bug reports, feature requests, or general discussions.
+
+### Thank you for your contribution to Hyperion AI Nexus! Together, we're shaping the future of collaborative AI innovation.
+
 # Tutorials 
 
 ## Retrieve Data 
